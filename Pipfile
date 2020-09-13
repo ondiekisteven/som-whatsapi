@@ -17,6 +17,7 @@ flask = "*"
 Jinja2 = "*"
 requests = "*"
 uWSGI = "*"
+gunicorn = "*"
 
 [dev-packages]
 
