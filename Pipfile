@@ -18,6 +18,7 @@ Jinja2 = "*"
 requests = "*"
 uWSGI = "*"
 gunicorn = "*"
+python-resize-image = "*"
 
 [dev-packages]
 
