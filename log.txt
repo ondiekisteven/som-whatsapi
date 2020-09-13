@@ -1,0 +1,13 @@
+2020-09-13 17:15:32,099|INFO|API call GET http://localhost:5000/
+2020-09-13 17:28:39,402|INFO|API call PUT http://localhost:5000/client
+2020-09-13 17:29:51,222|INFO|API call GET http://localhost:5000/admin/clients
+2020-09-13 17:30:41,998|INFO|API call GET http://localhost:5000/screen
+2020-09-13 17:31:39,560|INFO|API call GET http://localhost:5000/screen
+2020-09-13 17:32:16,497|INFO|API call GET http://localhost:5000/admin/clients
+2020-09-13 17:32:43,116|INFO|API call GET http://localhost:5000/contacts
+2020-09-13 17:33:37,213|INFO|API call GET http://localhost:5000/chats
+2020-09-13 17:40:34,613|INFO|API call GET http://localhost:5000/chats/254715933440@c.us/messages
+2020-09-13 17:41:08,897|INFO|API call GET http://localhost:5000/chats/254715933440@c.us/messages
+2020-09-13 17:43:14,213|INFO|API call GET http://localhost:5000/chats/254715933440@c.us/messages
+2020-09-13 17:44:36,959|INFO|API call POST http://localhost:5000/chats/254715933440@c.us/messages
+2020-09-13 17:45:35,366|INFO|API call POST http://localhost:5000/chats/254726422225@c.us/messages
