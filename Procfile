@@ -1,1 +1,1 @@
-web gunicorn app:webapi.py
+web python webapi.py
