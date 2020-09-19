@@ -19,7 +19,6 @@ requests = "*"
 uWSGI = "*"
 gunicorn = "*"
 python-resize-image = "*"
-webdriver-manager = "*"
 
 [dev-packages]
 

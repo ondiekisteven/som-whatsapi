@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "c92f1d065ae3ef79852c1b136fe7d77f986fae63137b4da468f2734f60ca0481"
+            "sha256": "7739066e6e7697418f44bbb4dbbe60df5b683c975d3a69de699b583ac4d6a122"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -109,27 +109,6 @@
                 "sha256:dacca89f4bfadd5de3d7489b7c8a566eee0d3676333fbb50030263894c38c0dc"
             ],
             "version": "==7.1.2"
-        },
-        "colorama": {
-            "hashes": [
-                "sha256:7d73d2a99753107a36ac6b455ee49046802e59d9d076ef8e47b61499fa29afff",
-                "sha256:e96da0d330793e2cb9485e9ddfd918d456036c7149416295932478192f4436a1"
-            ],
-            "version": "==0.4.3"
-        },
-        "configparser": {
-            "hashes": [
-                "sha256:2ca44140ee259b5e3d8aaf47c79c36a7ab0d5e94d70bd4105c03ede7a20ea5a1",
-                "sha256:cffc044844040c7ce04e9acd1838b5f2e5fa3170182f6fda4d2ea8b0099dbadd"
-            ],
-            "version": "==5.0.0"
-        },
-        "crayons": {
-            "hashes": [
-                "sha256:bd33b7547800f2cfbd26b38431f9e64b487a7de74a947b0fafc89b45a601813f",
-                "sha256:e73ad105c78935d71fe454dd4b85c5c437ba199294e7ffd3341842bc683654b1"
-            ],
-            "version": "==0.4.0"
         },
         "cryptography": {
             "hashes": [
@@ -435,7 +414,7 @@
                 "sha256:99d4073b617d30288f569d3f13d2bd7548c3a7e4c8de87db09a9d29bb3a4a60c",
                 "sha256:dafc7639cde7f1b6e1acc0f457842a83e722ccca8eef5270af2d74792619a89f"
             ],
-            "markers": "python_version < '3.7'",
+            "markers": "python_version < '3.8'",
             "version": "==3.7.4.3"
         },
         "urllib3": {
@@ -451,14 +430,6 @@
             ],
             "index": "pypi",
             "version": "==2.0.19.1"
-        },
-        "webdriver-manager": {
-            "hashes": [
-                "sha256:18a665c6400bb7cf1a9ec9e1030ac5539cd5c892c97075f58940c62971470ce3",
-                "sha256:c2d4ee0a78226c355f3657dd0337e515187585a1497229af2ce5f4705234da9c"
-            ],
-            "index": "pypi",
-            "version": "==3.2.2"
         },
         "werkzeug": {
             "hashes": [
