@@ -35,6 +35,8 @@ import sys
 import time
 import threading
 import werkzeug
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium import webdriver
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, BASE_DIR)
@@ -709,5 +711,6 @@ def hello():
 
 
 if __name__ == "__main__":
+    webdriver.Chrome(ChromeDriverManager().install())
     # todo: load presaved active client ids
     app.run()
